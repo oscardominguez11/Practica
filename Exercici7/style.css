@@ -1,0 +1,16 @@
+.carousel-inner .carousel-item img {
+    height: 60vh;
+    margin: 4rem;
+}
+
+@media screen and (min-width: 768px) {
+    .accordion {
+        width: 66%;
+        float: right;
+        display: inline;
+    }
+    div.container div.container {
+        width: 33%;
+        float: left;
+    }
+}
